@@ -1,0 +1,14 @@
+body {
+	text-align: center;
+}
+.box {
+	widht: 500px;
+	min-height: 200px;
+	background: green;
+	margin-bottom: 50px;
+}
+.img1 {
+	width: 350px;
+	display: block;
+	margin: auto;
+}
